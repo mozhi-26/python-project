@@ -1,0 +1,18 @@
+{
+    "admins": [
+        {
+            "user_id": 1,
+            "name": "Admin",
+            "role": "admin",
+            "password": "admin123"
+        }
+    ],
+    "doctors": [],
+    "patients": [],
+    "appointments": [],
+    "next_ids": {
+        "doctor": 1,
+        "patient": 1,
+        "appointment": 1
+    }
+}
